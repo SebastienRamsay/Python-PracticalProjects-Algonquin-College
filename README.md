@@ -1,7 +1,12 @@
-This is was a project complete during the Computer Programming course at Alogonquin College Ottawa.
+# Programming Language Research Project
 
-This project was made in the Program Language Research class and evolves around data manipulation.
-The project gave different implementation tasks depending on the language.
-The Language I chose to learn was python.
-There are 4 parts to this project, each with more implemetations. This is the fourth and last implementation.
-At the end of each section of the project I was tasked with creating Documentation for new implmentations.
+This project was completed during the **Computer Programming** course at **Algonquin College, Ottawa**.
+
+The project assigned different implementation tasks depending on the programming language, with a focus on **data manipulation**.  
+The language I chose to learn was **Python**.
+
+There are **four parts** to this project, each building upon the previous with more implementations.  
+This repository contains the **fourth and final implementation**.
+
+At the end of each section, I was tasked with creating documentation for the new implementations.
+This documentation is in word documents found within the repository.
